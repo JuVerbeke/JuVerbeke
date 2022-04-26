@@ -6,7 +6,6 @@
 - I work mainly on backend projects using Java with Spring Boot
 - I’m interested in web development, DIY Arduino projects, music and tennis.
 - I’m looking to collaborate on open source project
-- My favorite song to start the day in a good mood : Lambé An Dro, Matmatah
 
 <h2>Techs & tools I use</h2>
 
