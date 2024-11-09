@@ -18,14 +18,14 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="maven" src="https://img.shields.io/badge/-Maven-bf2047?style=flat-square&logo=maven&logoColor=white" />
   <img alt="intellij" src="https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-1572B6?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
 </p>
 
 <h2>Techs & tools I'm currently learning</h2>
 
 <p>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-1572B6?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
 </p>
 
 <h2>Where to find me</h2>
